@@ -1,0 +1,1 @@
+copy SoundCode.CodeTag\bin\Debug\SoundCode.CodeTag.dll "%ProgramFiles(x86)%\Windows Live\Writer\Plugins"
